@@ -1,0 +1,10 @@
+{"name": "Gökhan", "surname": "Karaçay", "phone": "905324003599", "workplace": "Freelance", "note": "Want to learn to code"}
+{"name": "Umut Rıza", "surname": "Ertürk", "phone": "905553334343", "workplace": "Udemy", "note": "Yabacıbaşı"}
+{"name": "Mehmet Kağan", "surname": "Karaçay", "phone": "905335655656", "workplace": "Ev", "note": "Sempatik"}
+{"name": "Ahmet", "surname": "Allı", "phone": "905337778888", "workplace": "Dumur", "note": "Zevksiz"}
+{"name": "Erdal", "surname": "Ecir", "phone": "905325558889", "workplace": "Hepsiburada", "note": "Bıldırcın yumurtası"}
+{"name": "Halim Orhan", "surname": "Karaçay", "phone": "905443455454", "workplace": "Nasa", "note": "Yaramaz zibidi"}
+{"name": "Ahmet", "surname": "Yalan", "phone": "905334445566", "workplace": "Yalan AŞ", "note": "Yalancı"}
+{"name": "Coşkun", "surname": "Soysal", "phone": "905333443434", "workplace": "Defacto", "note": "Yabalayıcı"}
+{"name": "John", "surname": "Malkovich", "phone": "90565665556", "workplace": "Hollywood", "note": ""}
+{"name": "cxv", "surname": "zx", "phone": "zxc", "workplace": "xzc", "note": "zxc"}

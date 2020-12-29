@@ -1,0 +1,13 @@
+{"name": "Gökhan", "surname": "Karaçay", "phone": "905324003599", "workplace": "Freelance", "note": "Want to learn to code"}
+{"name": "Umut Rıza", "surname": "Ertürk", "phone": "905553334343", "workplace": "Udemy", "note": "Yabacıbaşı"}
+{"name": "Mehmet Kağan", "surname": "Karaçay", "phone": "905335655656", "workplace": "Ev", "note": "Sempatik"}
+{"name": "Beren", "surname": "Ayar", "phone": "32423", "workplace": "Hollywood", "note": "Güzel"}
+{"name": "Erdal", "surname": "Ecir", "phone": "905325558889", "workplace": "Hepsiburada", "note": "Bıldırcın yumurtası"}
+{"name": "Halim Orhan", "surname": "Karaçay", "phone": "905443455454", "workplace": "Nasa", "note": "Yaramaz zibidi"}
+{"name": "ahmet", "surname": "yalan değişti", "phone": "213123", "workplace": "Free değişti", "note": "değişti"}
+{"name": "Coşkun", "surname": "Soysal", "phone": "905333443434", "workplace": "Defacto", "note": "Yabalayıcı"}
+{"name": "John", "surname": "Malkovich", "phone": "90565665556", "workplace": "Hollywood", "note": ""}
+{"name": "Serdar", "surname": "Dündar", "phone": "21313", "workplace": "TSk", "note": "Yaramaz"}
+{"name": "Semih", "surname": "Sehmez", "phone": "213123", "workplace": "TDK", "note": "Sıpa"}
+{"name": "Ayşe", "surname": "Ayma", "phone": "13123", "workplace": "Pırasa LTD", "note": "İdare eder"}
+{"name": "gökhna", "surname": "sad", "phone": "dfs", "workplace": "asdf", "note": "asd"}
