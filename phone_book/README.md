@@ -3,8 +3,8 @@ It is a basic phone book program in turkish which is written to make some practi
 
 
 
-<img src="https://github.com/gokhankar/python-phonebook/blob/master/phone_book/phone_book_1.jpg">
+![alt text](https://github.com/gokhankar/python-phonebook/blob/master/phone_book/phone_book_1.jpg?raw=true)
 
 
-![alt text](https://github.com/gokhankar/python-phonebook/blob/master/phone_book/phone_book_2.jpg)
+![alt text](https://github.com/gokhankar/python-phonebook/blob/master/phone_book/phone_book_2.jpg?raw=true)
 
